@@ -1,0 +1,66 @@
+html{
+    
+    background: linear-gradient(to right, #b0a1dd 0%,#2a084f 100%,#4b2677 100%);
+}
+
+body{
+    border-radius: 25px;
+    width: 1000px;
+    padding: 50px;
+    margin-top: 70px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    
+    text-align: center;
+}
+
+body{
+    border: 4px solid #ccccff;
+    border-top: auto;
+    border-bottom: auto;
+    background-image: url(../images/stripes.jpg);
+}
+
+
+a{
+    
+    font-size: 16pt;
+    font-family: serif, Helvetica
+    color:#330066;
+    text-decoration: none;
+}
+
+a:hover{
+    
+    color: #ffe6ff;
+}
+
+h1{
+    
+    font-size: 40pt;
+    color: #000;
+    border-top: 2px #ffe6ff;
+    border-bottom: 2px #543143;
+    text-transform: uppercase;
+}
+
+p{
+    
+    font-size: 15pt;
+    line-height: 14pt;
+}
+
+
+img{
+    
+    border: medium dashed #896;
+    box-shadow: 5px 5px 5px rgba(0,0,0,3);
+    
+}
+
+li{
+    display: inline;
+}
